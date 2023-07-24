@@ -1,0 +1,2 @@
+## todo
+- [ ] Docker setup
